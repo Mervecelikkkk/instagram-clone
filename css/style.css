@@ -44,3 +44,23 @@ input.empty {
   text-decoration: none;
   color: lightgrey;
 }
+
+.navbar {
+ /* position: fixed; */
+ height: 54px;
+ background-color: white;
+}
+
+.logo {
+  margin-left: 192px;
+}
+
+.middlearea {
+
+  max-height: 200px !important;
+}
+
+.container {
+ 
+}
+
