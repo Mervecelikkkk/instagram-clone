@@ -1,3 +1,8 @@
+
+body {
+padding-top: 54px;
+}
+
 ::placeholder{
   text-align: center;
   font-size: 14px;
@@ -46,9 +51,13 @@ input.empty {
 }
 
 .navbar {
- /* position: fixed; */
  height: 54px;
  background-color: white;
+ position: fixed;
+ z-index: 1000;
+ top: 0;
+ left: 0;
+ right: 0;
 }
 
 .logo {
@@ -60,7 +69,5 @@ input.empty {
   max-height: 200px !important;
 }
 
-.container {
- 
-}
+
 
