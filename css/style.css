@@ -9,6 +9,8 @@ padding-top: 54px;
   color: gray;
   background-position: 40%;
   background-size: 6%;
+  background-image: url("/assets/search-solid.svg");
+  background-repeat: no-repeat, repeat;
 }
 
 input.empty {
